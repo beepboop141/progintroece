@@ -7,7 +7,7 @@ int main(void)
     string line, leftover_text, output;
     char input[20];
 
-    while((scanf("%s ", input)) != EOF)
+    while(cin >> input)
     {
         scanf("%s ", input);
         string word = input;
