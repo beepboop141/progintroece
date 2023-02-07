@@ -1,3 +1,9 @@
+/* Should you do this? no 
+did i do this because i was lazy and the previous code worked? 
+yes. 
+you should probably try to implement a better approach with pointers instead of creating and deleting the nodes but i was lazy 
+and because it was the first semester aka parties </3
+*/ 
 #include <iostream>  
 using namespace std;   
   
