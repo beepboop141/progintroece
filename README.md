@@ -22,3 +22,4 @@ it is supposed to be a helpful tool
 if you are here however (in true ntua fashion)... 
 
 i can't take any responsibility it's your degree but like you shouldn't do it?  
+it's only meant to aid/serve as a guide
